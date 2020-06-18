@@ -15,7 +15,7 @@
 			}
 		},
 		onLoad() {
-
+			console.log(this.$u.config.v);
 		},
 		methods: {
 
